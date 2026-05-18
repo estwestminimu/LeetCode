@@ -1,2 +1,5 @@
 test.txt
 test.html
+node_modules
+AzuriteConfig
+__azurite_db_table__.json

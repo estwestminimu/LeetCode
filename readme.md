@@ -23,3 +23,10 @@ Memory complexity O(1)
 Time complexity: O(n)
 <br>
 Memory complexity O(1)
+
+
+***
+## Merge Sort
+ **[JavaScript](./Easy/2460/index.js)**
+
+ Time complexity: O(nlogn)
