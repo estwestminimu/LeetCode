@@ -1,0 +1,1 @@
+SELECT w1.id FROM Weather as W1 INNER JOIN Weather as W2 on W1.recordDate = W2.recordDate + INTERVAL '1 day' WHERE w1.temperature>w2.temperature; 
