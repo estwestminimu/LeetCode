@@ -36,6 +36,11 @@ Memory complexity O(1)
  **[SQL](./Easy/1378/query.sql)**
 
 
+
+## [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1581/query.sql)**
+
+
 ## [1683](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1683/query.sql)**
 
