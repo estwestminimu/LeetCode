@@ -6,6 +6,10 @@ Time complexity: O(nlogn + mlogm)
 <br>
 Memory complexity O(1)
 
+## [584](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/584/query.sql)**
+
+
 
 ## [989](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
  **[JavaScript](./Easy/989/index.js)**
