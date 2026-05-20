@@ -27,6 +27,9 @@ Memory complexity O(1)
  **[SQL](./Easy/1148/query.sql)**
 
 
+## [1683](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1683/query.sql)**
+
 
 ## [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1757/query.sql)**
