@@ -26,6 +26,9 @@ Memory complexity O(1)
 ## [1148](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1148/query.sql)**
 
+## [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1378/query.sql)**
+
 
 ## [1683](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1683/query.sql)**
