@@ -17,9 +17,14 @@ Memory complexity O(1)
  **[JavaScript](./Easy/989/index.js)**
 
 
+
 Time complexity: O(# of digits in k)
 <br>
 Memory complexity O(1)
+
+
+## [1148](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1148/query.sql)**
 
 
 
