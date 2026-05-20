@@ -1,0 +1,1 @@
+SELECT product_id FROM Products Where low_fats LIKE "Y" AND recyclable LIKE "Y";

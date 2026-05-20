@@ -16,6 +16,12 @@ Time complexity: O(# of digits in k)
 Memory complexity O(1)
 
 
+
+## [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1757/query.sql)**
+
+
+
 ## [2460](https://leetcode.com/problems/apply-operations-to-an-array/description/)
  **[JavaScript](./Easy/2460/index.js)**
 
