@@ -58,6 +58,11 @@ Memory complexity O(1)
  **[SQL](./Easy/1581/query.sql)**
 
 
+## [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1633/query.sql)**
+
+
+
 ## [1683](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1683/query.sql)**
 
