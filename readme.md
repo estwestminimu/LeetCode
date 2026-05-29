@@ -65,10 +65,13 @@ Memory complexity O(1)
 ## [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1757/query.sql)**
 
+## [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[JavaScript](./Easy/2356/index.js)**
+
 
 
 ## [2460](https://leetcode.com/problems/apply-operations-to-an-array/description/)
- **[JavaScript](./Easy/2460/index.js)**
+ **[JavaScript](./Easy/2460/index.sql)**
 
 
 Time complexity: O(n)
