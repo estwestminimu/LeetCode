@@ -25,6 +25,10 @@ Memory complexity O(1)
 ## [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/595/query.sql)**
 
+
+## [620](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/620/query.sql)**
+
 ## [989](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
  **[JavaScript](./Easy/989/index.js)**
 
