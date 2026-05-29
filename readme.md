@@ -65,6 +65,11 @@ Memory complexity O(1)
 ## [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1757/query.sql)**
 
+
+ ## [1978](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1978/query.sql)**
+
+
 ## [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50)
  **[JavaScript](./Easy/2356/index.js)**
 
