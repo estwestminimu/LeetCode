@@ -13,12 +13,15 @@ Time complexity: O(nlogn + mlogm)
 <br>
 Memory complexity O(1)
 
-## [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
- **[SQL](./Easy/595/query.sql)**
+
+## [577](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/577/query.sql)**
 
 ## [584](leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/584/query.sql)**
 
+## [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/595/query.sql)**
 
 ## [989](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
  **[JavaScript](./Easy/989/index.js)**
