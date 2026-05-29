@@ -13,6 +13,8 @@ Time complexity: O(nlogn + mlogm)
 <br>
 Memory complexity O(1)
 
+## [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Medium/570/query.sql)**
 
 ## [577](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/577/query.sql)**
