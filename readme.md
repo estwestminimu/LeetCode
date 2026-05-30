@@ -75,6 +75,12 @@ Memory complexity O(1)
  **[SQL](./Easy/1978/query.sql)**
 
 
+
+ ## [2068 - lintcode](https://www.lintcode.com/problem/2068/?showListFe=true&page=1&problemTypeId=3&level=2&ordering=level&pageSize=50)
+ **[SQL](./Easy/2068/query.sql)**
+
+
+
 ## [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50)
  **[JavaScript](./Easy/2356/index.js)**
 
