@@ -25,6 +25,9 @@ Memory complexity O(1)
 ## [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/595/query.sql)**
 
+ ## [610](https://leetcode.com/problems/triangle-judgement/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/610/query.sql)**
+
 ## [619](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/619/query.sql)**
 
