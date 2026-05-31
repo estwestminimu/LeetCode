@@ -67,6 +67,10 @@ Memory complexity O(1)
  **[SQL](./Easy/1683/query.sql)**
 
 
+## [1729](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1729/query.sql)**
+
+
 ## [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1757/query.sql)**
 
@@ -98,8 +102,11 @@ Memory complexity O(1)
  ## [3611 - lintcode](https://www.lintcode.com/problem/3611/?showListFe=true&page=1&problemTypeId=3&level=2&ordering=level&pageSize=50)
  **[SQL](./Easy/3611/query.sql)**
 
+ ## [Q1](https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=db-db1-sql-i)
+ **[SQL](./Q/Q1/query.sql)**
 
-
+ ## [Q2](https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/2018337638/?envType=problem-list-v2&envId=db-db1-sql-i)
+ **[SQL](./Q/Q2/query.sql)**
 
 ***
 ## Merge Sort
