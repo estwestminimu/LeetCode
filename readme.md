@@ -25,6 +25,9 @@ Memory complexity O(1)
 ## [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/595/query.sql)**
 
+## [619](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/619/query.sql)**
+
 
 ## [620](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/620/query.sql)**
