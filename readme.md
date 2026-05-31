@@ -42,6 +42,8 @@ Memory complexity O(1)
 
 
 
+## [1045](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50)
+ **[SQL](./Easy/1045/query.sql)**
 
 ## [1068](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50)
  **[SQL](./Easy/1068/query.sql)**
